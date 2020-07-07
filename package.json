@@ -1,0 +1,22 @@
+{
+  "name": "node.js-sample-test",
+  "version": "1.0.0",
+  "description": "test some features of nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kwanik-kor/node.js-sample-test.git"
+  },
+  "author": "kwanik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kwanik-kor/node.js-sample-test/issues"
+  },
+  "homepage": "https://github.com/kwanik-kor/node.js-sample-test#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
